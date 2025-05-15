@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Finetunned Chatbot</h1>
+      <h1>Deshik Chatbot</h1>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
